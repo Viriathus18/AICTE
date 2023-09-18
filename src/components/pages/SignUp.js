@@ -1,6 +1,10 @@
 import React from 'react';
 import '../../App.css';
+import Log from './Log.js';
 
-export default function SignUp() {
-  return <h1 className='sign-up'>LOGIN/SIGNUP</h1>;
+export function SignUp() {
+  return(
+    <Log/>
+  );
 }
+export default SignUp;
