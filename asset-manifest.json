@@ -1,13 +1,13 @@
 {
-  "main.css": "/AICTE/static/css/main.669fa9bc.chunk.css",
-  "main.js": "/AICTE/static/js/main.c38e7563.chunk.js",
-  "main.js.map": "/AICTE/static/js/main.c38e7563.chunk.js.map",
+  "main.css": "/AICTE/static/css/main.8ad630c8.chunk.css",
+  "main.js": "/AICTE/static/js/main.f3033688.chunk.js",
+  "main.js.map": "/AICTE/static/js/main.f3033688.chunk.js.map",
   "static/js/1.2e0ff9c3.chunk.js": "/AICTE/static/js/1.2e0ff9c3.chunk.js",
   "static/js/1.2e0ff9c3.chunk.js.map": "/AICTE/static/js/1.2e0ff9c3.chunk.js.map",
   "runtime~main.js": "/AICTE/static/js/runtime~main.ba226fc5.js",
   "runtime~main.js.map": "/AICTE/static/js/runtime~main.ba226fc5.js.map",
-  "static/css/main.669fa9bc.chunk.css.map": "/AICTE/static/css/main.669fa9bc.chunk.css.map",
+  "static/css/main.8ad630c8.chunk.css.map": "/AICTE/static/css/main.8ad630c8.chunk.css.map",
   "index.html": "/AICTE/index.html",
-  "precache-manifest.494d3f38d1826a5a2b5f8130124f53b8.js": "/AICTE/precache-manifest.494d3f38d1826a5a2b5f8130124f53b8.js",
+  "precache-manifest.012ef9b7a3b523ecde0a0bca213b3a7a.js": "/AICTE/precache-manifest.012ef9b7a3b523ecde0a0bca213b3a7a.js",
   "service-worker.js": "/AICTE/service-worker.js"
 }
