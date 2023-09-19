@@ -7,7 +7,7 @@ import password_icon from './password.png'
 
 
 const Log = () => {
-    const [action,SetAction]= useState("Login");
+    const [action,SetAction]= useState("SignUP");
   return (
     <div className='container'>
         <div className='header'>

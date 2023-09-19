@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "5cb80b4613fa6029d208",
-    "url": "/AICTE/static/css/main.5dd05eea.chunk.css"
+    "revision": "6f1e125eb1b25e29b9f1",
+    "url": "/AICTE/static/css/main.41e1ed2f.chunk.css"
   },
   {
-    "revision": "5cb80b4613fa6029d208",
-    "url": "/AICTE/static/js/main.5cb80b46.chunk.js"
+    "revision": "6f1e125eb1b25e29b9f1",
+    "url": "/AICTE/static/js/main.6f1e125e.chunk.js"
   },
   {
     "revision": "42feb57688907137dc06",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/AICTE/static/media/img-8.1e2865cb.webp"
   },
   {
-    "revision": "23501cbdd6bf0949d22028a2a84e63bf",
+    "revision": "cdb36b73f69c70843fea6cba931e2155",
     "url": "/AICTE/index.html"
   }
 ];
