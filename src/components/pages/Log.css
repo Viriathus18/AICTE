@@ -11,7 +11,7 @@ body {
       rgba(0, 0, 0, 0.2), 
       rgba(0, 0, 0, 0.2)
     ),
-    url('/images/img-8.webp') center center/cover no-repeat;
+    url('../../bg-images/img-8.webp') center center/cover no-repeat;
   }
   
   code {
